@@ -37,7 +37,9 @@
 }
 
 .tagline {
- display: relative;
+  position: absolute;
+  top: 8px;
+  left: 16px;
 }
 
 .ebook {
