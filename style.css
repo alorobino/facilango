@@ -41,6 +41,12 @@
   padding-left: 0;
 }
 
+.main {
+ display: block;
+ padding-top: 100px;
+ padding-bottom: 100px;
+}
+
 
 
 * {box-sizing:border-box}
