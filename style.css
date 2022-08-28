@@ -31,12 +31,11 @@
 .decorative {
  opacity: .5;
   width: 90%;
-      margin-left: 5%;
  
 }
 .container {
 position: relative;
-  text-align: center;
+ padding-top: 100px;
 }
 
 .tagline {
