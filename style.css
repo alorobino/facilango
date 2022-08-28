@@ -34,16 +34,7 @@
   width: 100%;
  
 }
-.container {
-position: relative;
- padding-top: 100px;
-}
 
-/*.tagline {
-  position: absolute;
-  bottom: 8px;
-  left: 0;
-}*/
 
 .ebook {
   width:100%;
@@ -154,7 +145,7 @@ position: relative;
  z-index:1;
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
- height: 17%;
+ height: 18%;
 }
 
 /* Links inside the navbar */
