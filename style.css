@@ -39,6 +39,11 @@
   padding-left: 0;
 }
 
+.imgs { 
+ width:100%;
+  padding-left: 5%;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
