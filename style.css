@@ -46,7 +46,9 @@
  padding-top: 15%;
 }
 
-
+.tip {
+ font-size: 3vw;
+}
 
 * {box-sizing:border-box}
 
