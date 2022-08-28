@@ -144,8 +144,7 @@
   position: fixed; /* Set the navbar to fixed position */
  z-index:1;
   top: 0; /* Position the navbar at the top of the page */
- padding-left:5%;
-  width: 90%; /* Full width */
+  width: 100%; /* Full width */
 }
 
 /* Links inside the navbar */
@@ -157,6 +156,9 @@
  padding-right: 16px;
   text-decoration: none;
  max-width: 20%;
+}
+.barlabel {
+ padding-top:16px;
 }
 
 /* Change background on mouse-over 
