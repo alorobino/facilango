@@ -155,7 +155,7 @@
   display: block;
   color: #000000;
   text-align: center;
-  /*padding: 14px 16px;*/
+ padding-right: 16px;
   text-decoration: none;
  max-width: 20%;
 }
