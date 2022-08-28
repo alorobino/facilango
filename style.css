@@ -30,10 +30,11 @@
 }
 
 .decorative {
+ opacity: .5;
   width: 90%;
       margin-left: auto;
       margin-right: auto;
-      display: block
+      display: absolute;
 }
 
 .ebook {
