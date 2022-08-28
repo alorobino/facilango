@@ -1,4 +1,4 @@
-const textList = ["simple", "fast", "fun", "effective",];
+const textList = ["simply", "quickly", "enjoyably", "effectively",];
 const cycle = document.querySelector("#cycle");
 let i = 0;
 const cycleText = () => {
