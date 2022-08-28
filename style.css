@@ -41,7 +41,7 @@ position: relative;
 .tagline {
   position: absolute;
   bottom: 8px;
-  left: 5%;
+  left: 0;
 }
 
 .ebook {
