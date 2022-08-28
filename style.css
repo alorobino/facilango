@@ -47,8 +47,8 @@
 }
 
 .tip {
- font-size: 3vw;
- text-align:centre;
+width: 30%;
+  margin: auto;
 }
 
 * {box-sizing:border-box}
