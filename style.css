@@ -140,7 +140,7 @@
   position: fixed; /* Set the navbar to fixed position */
  z-index:1;
   top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
+  width: 90%; /* Full width */
 }
 
 /* Links inside the navbar */
