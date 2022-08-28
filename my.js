@@ -6,7 +6,7 @@ const cycleText = () => {
   i = ++i % textList.length;
 };
 cycleText();
-setInterval(cycleText, 400);
+setInterval(cycleText, 600);
 
 
 var slideIndex = 1;
