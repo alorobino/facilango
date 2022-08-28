@@ -29,6 +29,11 @@
   padding-left: 5%;
 }
 
+.decorative {
+  width: 100%;
+  padding: 5%;
+}
+
 .ebook {
   width:100%;
   padding-left: 0;
