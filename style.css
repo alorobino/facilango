@@ -48,7 +48,8 @@
 
 .tip {
 width: 30%;
-  margin-left: 5%;
+ display:block;
+  margin: auto;
 }
 
 .cover {
