@@ -99,12 +99,6 @@ width: 30%;
   color: black;
 }*/
 
-/* Main content 
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
-}*/
-* {box-sizing: border-box;}
-
 /* Slideshow container */
 .slideshow-container {
   position: relative;
@@ -145,4 +139,12 @@ width: 30%;
   background-color: rgba(0,0,0,0.8);
   color: white;
 }
+
+
+
+
+
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
 
