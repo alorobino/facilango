@@ -149,6 +149,7 @@ width: 30%;
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
  max-height: 18%;
+ padding-left:5%;
 }
 
 /* Links inside the navbar */
