@@ -103,7 +103,7 @@ width: 30%;
 .main {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }*/
-
+* {box-sizing: border-box;}
 
 /* Slideshow container */
 .slideshow-container {
